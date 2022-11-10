@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Deploying on Netlify</h1>
+        <h1>Second commit!</h1>
       </header>
     </div>
   );
